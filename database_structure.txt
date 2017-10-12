@@ -1,0 +1,39 @@
+invento_db
+invento_items_master_table
+ - item_id
+ - item_name
+ - item_description
+ - item_date_time_created
+ - item_date_time_updated
+ - item_category
+ - item_rsp
+ - item_srp
+ - item_total_quantity
+ - account_id
+ - account_username
+
+invento_items_transactions_table
+ - transaction_id
+ - transaction_type
+ - transaction_type_reason
+ - transaction_date_time
+ - item_id
+ - item_name
+ - item_description
+ - item_date_time_created
+ - item_date_time_updated
+ - item_category
+ - item_rsp
+ - item_srp
+ - item_total_quantity
+ - account_id
+ - account_username
+
+invento_accounts
+ - account_id
+ - account_type
+ - account_username
+ - account_password
+
+items_query
+ - 

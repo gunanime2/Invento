@@ -1,0 +1,7 @@
+Line 15: Class MSDataListLib.DataCombo of control datacombo_item_name was not a loaded control class.
+Line 16: The property name Bindings in datacombo_item_name is invalid.
+Line 24: The property name _ExtentX in datacombo_item_name is invalid.
+Line 25: The property name _ExtentY in datacombo_item_name is invalid.
+Line 26: The property name _Version in datacombo_item_name is invalid.
+Line 27: The property name ListField in datacombo_item_name is invalid.
+Line 28: The property name Text in datacombo_item_name is invalid.

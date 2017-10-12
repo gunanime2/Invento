@@ -1,0 +1,8 @@
+==20170330
+	done - Add form header color customizing settings feature.
+==20170329
+	done - adodc connectionstrings set to "invento_db.mdb" instead of "d:\invento - simpleinventory\invento_db.mdb"
+
+==20170327
+	done - Add transaction_reference_number to add stocks form. - done
+	done - Add username on every transaction made. - done

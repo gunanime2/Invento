@@ -1,0 +1,4 @@
+- Create "D:\Invento - SimpleInventory" directory.
+- Extract the content of the compressed file inside the created folder.
+- Copy the contents of the "Dependency" folder inside the "C:\Windows\SysWOW64" folder.
+- Done, you may now start using the application.

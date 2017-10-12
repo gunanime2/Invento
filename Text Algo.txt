@@ -1,0 +1,5 @@
+-user login
+ -user login failed
+  -return to user login
+ -user login success
+  -show user manage stocks link, show reports link, application settings link

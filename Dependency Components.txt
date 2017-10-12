@@ -1,0 +1,10 @@
+Add the contents of the Dependencies folder into the C:\Windows\SysWOW64 folder.
+- Microsoft ADO Data Control 6.0(OLEDB)
+	- MSADODC.ocx
+- Microsoft Datagrid Control 6.0(SP6)(OLEDB)
+	- msdatgrd.ocx
+- Microsoft Datalist Controls 6.0(OLEDB)
+	- MSDATLST.ocx
+- Microsoft Windows Common Controls-2 6.0(SP6)
+	- mscomct2.ocx
+- Microsoft Common Dialog Control 6.0(SP6)
