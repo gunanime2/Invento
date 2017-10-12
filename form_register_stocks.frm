@@ -17,6 +17,24 @@ Begin VB.Form form_register_stocks
    ScaleHeight     =   6675
    ScaleWidth      =   7485
    StartUpPosition =   2  'CenterScreen
+   Begin VB.CommandButton command_delete_item 
+      BackColor       =   &H00E0E0E0&
+      Caption         =   "Del"
+      BeginProperty Font 
+         Name            =   "MS Sans Serif"
+         Size            =   8.25
+         Charset         =   0
+         Weight          =   700
+         Underline       =   0   'False
+         Italic          =   0   'False
+         Strikethrough   =   0   'False
+      EndProperty
+      Height          =   975
+      Left            =   5400
+      TabIndex        =   13
+      Top             =   3840
+      Width           =   855
+   End
    Begin MSDataGridLib.DataGrid DataGrid1 
       Bindings        =   "form_register_stocks.frx":0442
       Height          =   1575
@@ -285,7 +303,7 @@ Begin VB.Form form_register_stocks
       Style           =   1  'Graphical
       TabIndex        =   5
       Top             =   3840
-      Width           =   3735
+      Width           =   2775
    End
    Begin VB.TextBox text_new_item_srp 
       BackColor       =   &H00E0E0E0&
