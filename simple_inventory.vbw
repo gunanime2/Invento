@@ -4,4 +4,4 @@ form_register_stocks = 52, 52, 1031, 574, , 0, 0, 979, 522, C
 form_release_stocks = 106, 65, 1125, 587, , 130, 130, 1149, 652, C
 form_login = 97, 127, 982, 649, , 260, 260, 1145, 782, C
 datareport_items_transactions = 156, 156, 1041, 678, , 74, 193, 884, 694, C
-module = 260, 260, 1148, 782, 
+module = 260, 260, 1148, 782, C
